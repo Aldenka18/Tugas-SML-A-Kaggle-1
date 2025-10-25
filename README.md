@@ -1,4 +1,4 @@
-# *Tugas Kaggle 1 Statistical Machine Learning*
+# **Tugas Kaggle 1 Statistical Machine Learning**
 
 ## *Anggota Kelompok:*
 1. Aldenka Rifqi Ganendra Murti / 5003231015
