@@ -68,8 +68,8 @@ Proyek ini menggunakan tiga dataset:
         * F1 Score: 0.7381
 
 10.  *Prediksi:*
-    * Pipeline terbaik digunakan untuk memprediksi probabilitas atrisi pada dataset test.csv.
-    * Probabilitas prediksi disimpan ke dalam file submission_015 124 127_Final.csv sesuai format Kaggle.
+     * Pipeline terbaik digunakan untuk memprediksi probabilitas atrisi pada dataset test.csv.
+     * Probabilitas prediksi disimpan ke dalam file submission_015 124 127_Final.csv sesuai format Kaggle.
 
 11. *Penyimpanan Model:*
     * Pipeline akhir dengan kinerja terbaik (termasuk pra-pemrosesan, pemilihan fitur, dan model Regresi Logistik yang telah dituning) disimpan menggunakan pickle ke file Best Logistic Regression Pipeline.pkl untuk penggunaan di masa depan.
